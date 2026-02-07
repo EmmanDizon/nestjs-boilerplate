@@ -1,0 +1,11 @@
+title,description,status
+"Complete project documentation","Write comprehensive API documentation for all endpoints",pending
+"Code review","Review pending pull requests from team members",in-progress
+"Deploy to production","Deploy version 1.0.0 to production environment",pending
+"Update dependencies","Update npm packages to latest stable versions",pending
+"Write unit tests","Add unit tests for auth service",pending
+"Fix bug in task filter","Resolve issue with task filtering by status",in-progress
+"Database optimization","Optimize database queries for better performance",pending
+"API documentation","Update Swagger documentation with new endpoints",done
+"Security audit","Perform security audit of authentication system",pending
+"Performance testing","Run load tests on API endpoints",pending
